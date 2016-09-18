@@ -38,6 +38,7 @@ jspm_packages
 
 # Mac OS-X
 .DS_Store
+
 # Bower
 bower_components/
 
